@@ -26,13 +26,13 @@ Simple HTTP and Webscket server using Bonezegei Scripting Language
 ``` bash
 # install all dependencies
 bzg install
-
+```
 <img width="1919" height="766" alt="image" src="https://github.com/user-attachments/assets/bd8a50f2-0425-46db-882d-23653fd495af" />
 
 
 # run the app
 bzg run
-```
+
 <img width="1917" height="760" alt="image" src="https://github.com/user-attachments/assets/c9aaa62c-e00b-47fd-b2e4-b7739c659ea5" />
 
 # the result of the portfolio
